@@ -164,9 +164,3 @@ where $n$ is the total number of samples, $n_k$ is the number of samples belongi
 For each trained model, compute the accuracy on the test set that was set aside for each data variant. Since there are 3 variants, there should be 3 comparisons of Logistic Regression versus LDA. Implement each variant evaluation as a separate script. Name the scripts `eval_classifiers1.py`, `eval_classifiers2.py`, etc.
 
 These scripts should load the best trained weights, evaluate the accuracy on the test set, and print the accuracy to the console.
-
-# Submission 9/5/2023
-
-Create a zip file that includes all of your code as well as your report. The TA should
-be able to easily run the code to reproduce all plots and results. Include any additional
-instructions, if necessary.
